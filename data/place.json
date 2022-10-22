@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Cox's Bazar",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1"
+  },
+  {
+    "id": "02",
+    "name": "Sajek",
+    "img": "https://thefinancialexpress.com.bd/uploads/1623685867.jpg"
+  },
+  {
+    "id": "03",
+    "name": "BandarBan",
+    "img": "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/2ufji43e5uo9za7i3boml6fyk7xm_1622034814_shutterstock_1765012712.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Saint Martin",
+    "img": "https://thefinancialexpress.com.bd/uploads/1644727380.jpeg"
+  },
+  {
+    "id": "05",
+    "name": "SundarBan",
+    "img": "https://dailyasianage.com/library/1582060099_9.jpg"
+  },
+  {
+    "id": "06",
+    "name": "SreeMangal",
+    "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/9782559_best%20tea%20gardens%20Bangladesh.jpg"
+  }
+]
